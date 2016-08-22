@@ -1,6 +1,6 @@
 # luxe support
 
-This is a place for users to get help, ask questions, and discuss luxe.   
+This is a place for users to get help, ask questions, and discuss [luxe](http://luxeengine.com/).   
 Please feel free to ask anything here simple, silly, obvious or otherwise!
 
 #### How to get help
@@ -13,5 +13,5 @@ That's it!
 
 #### Alternatives
 
-- You can also try the community chat
-- Bug reports can be filed on the code repository
+- You can also try the [community chat](https://gitter.im/snowkit/public)
+- Bug reports can be filed on the [code repository](https://github.com/underscorediscovery/luxe)

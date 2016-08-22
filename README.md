@@ -1,4 +1,4 @@
-# luxe support discussion repo
+# luxe support
 
 This is a place for users to get help, ask questions, and discuss luxe.   
 Please feel free to ask anything here simple, silly, obvious or otherwise!

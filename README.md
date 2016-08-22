@@ -14,5 +14,4 @@ That's it!
 #### Alternatives
 
 - You can also try the community chat
-- You can try on Twitter using the [#luxeengine](https://twitter.com/hashtag/luxeengine?f=tweets) tag
-- Bug reports can be placed on the repository in question
+- Bug reports can be filed on the code repository

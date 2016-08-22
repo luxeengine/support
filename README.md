@@ -1,6 +1,6 @@
 # luxe support discussion repo
 
-This is a place for users to get help, ask questions, and discuss luxe.
+This is a place for users to get help, ask questions, and discuss luxe.   
 Please feel free to ask anything here simple, silly, obvious or otherwise!
 
 #### How to get help

@@ -1,3 +1,5 @@
+![](luxe.png)
+
 # luxe support
 
 This is a place for users to get help, ask questions, and discuss luxe.   

@@ -15,5 +15,5 @@ That's it!
 
 #### Alternatives
 
-- You can also try the [community chat](https://gitter.im/luxeengine/support)
+- Find other ways to ask the [community](https://luxeengine.com/#community)
 - Bug reports can be filed on the [code repository](https://github.com/underscorediscovery/luxe)

@@ -1,4 +1,4 @@
-![](luxe.png)
+![](logo.png)
 
 # luxe support
 

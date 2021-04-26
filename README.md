@@ -9,7 +9,7 @@ Please feel free to ask anything here simple, silly, obvious or otherwise!
 
 - Use the search or peruse the existing issues to see if it's already been answered
 - If not or you aren't sure, open an [issue](https://github.com/luxeengine/support/issues?utf8=%E2%9C%93&q=is%3Aissue)!
-- Fill in a suitable title, and ideally label your question with some that fits
+- Fill in a suitable title, and ideally label your question with some that fit
 
 That's it!
 
